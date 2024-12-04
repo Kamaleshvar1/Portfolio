@@ -196,16 +196,21 @@ h2::selection {
 
 /* Project 4 */
 .card:nth-child(4) {
-  background: url(../assets/project/yt-clone.png) center center/cover;
+  background: url(../assets/project/calorie.png) center center/cover;
 }
 
 /* Project 5 */
 .card:nth-child(5) {
-  background: url(../assets/project/auto-attendance.png) center center/cover;
+  background: url(../assets/project/yt-clone.png) center center/cover;
 }
 
 /* Project 6 */
 .card:nth-child(6) {
+  background: url(../assets/project/auto-attendance.png) center center/cover;
+}
+
+/* Project 7 */
+.card:nth-child(7) {
   background: url(../assets/project/amazon-price-notifier.png) center center/cover;
 }
 
